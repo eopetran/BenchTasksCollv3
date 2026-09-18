@@ -1,2 +1,1 @@
-# User System Prompt
-Please help complete the sync-service task.
+This is an user system prompt for sync-service

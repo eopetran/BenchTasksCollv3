@@ -1,4 +1,4 @@
-# Evaluation script for streaming-service
+# Evaluation script for tag-manager
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
