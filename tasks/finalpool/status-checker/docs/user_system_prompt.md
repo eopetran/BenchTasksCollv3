@@ -1,2 +1,1 @@
-# User System Prompt
-Please help complete the status-checker task.
+This is an user system prompt for status-checker
